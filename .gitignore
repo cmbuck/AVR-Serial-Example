@@ -1,0 +1,32 @@
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# AVR junk
+*.eep
+*.elf
+*.hex
+*.lss
+*.lst
+*.map
+*.sym
+
+# Programmer's notepad stuff
+*.pnproj
+*.pnps
+
+.dep/
