@@ -1,0 +1,6 @@
+AVR serial UART communication example
+
+Initialize and read receive buffer and echo character back
+runs at 2400 baud.
+
+Written for Atmega328p 1 MHz internal clock.
